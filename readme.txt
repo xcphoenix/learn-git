@@ -6,3 +6,4 @@ Creating a new branch is quick AND simple.
 Control branchs
 work not finsh
 now, i changed this file.
+I want change this file
